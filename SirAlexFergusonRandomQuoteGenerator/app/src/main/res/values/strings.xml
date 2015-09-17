@@ -1,0 +1,318 @@
+<resources>
+    <string name="app_name">Fergie Quotes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Quote">Quote</string>
+    <string name="Another">Get another Quote!</string>
+    <string name="Details">details</string>
+
+    <array name="Quotes">
+        <item>"People say mine was a poor upbringing. I don't know what they mean. It was tough but it wasn't bloody poor. We maybe didn't have a TV or a car. We didn't even have a phone. But I thought I had everything. And I did: I had a football"</item>
+        <item>"When the wind's howling down the Clyde, thats what forges your character"</item>
+        <item>"I was one of the Passage 12 gang and the mentality of being a terrace follower hasn't left me." </item>
+        <item>"Many of the boys from Govan who were brought up with me turned to the drink or ended up in jail. The temptation to slide into that dead-end existence was all around us."</item>
+        <item>"Its the fifty-fifty balls that make me a strker. YOu get them, others don't"</item>
+        <item>"I scored 45 goals in 51 games for Dunfermline one season. Modesty forbids me from broadcasting it, of course, but I may have mentioned it to Ruud and Ole. They're fed up listening to me, in fact"</item>
+        <item>"What has happened to diving headers these days? You know, the kind of goals Denis Law, Tommy Lawton, Nat Lofthouse, Dixie Dean and Alex Ferguson used to score"</item>
+        <item>"Wee Jimmy Johnstone had a kick at me off the ball, accompanying the blow with a tirade which identified me as a blue nosed bastard. It was exactly the initiation I expected"</item>
+        <item>"The feeling of rejection and failure when I was discarded by Rangers was a real bad one. Yet out of that adversity, I found a sense of determination that has shaped my life. I made up my mind, I would never give in"</item>
+        <item>"There is only one way for me and thats winning. I'm not in this game to be a middle of the road manager. I'm in it to win everything"</item>
+        <item>"I learned a big lesson from that part of my career - because I didn't think I could get the sack"</item>
+        <item>"Minus 18, on that beach, wind's hitting your face, freezing your knackers off. You never get used to the cold"</item>
+        <item>"I'm not sure anything could surpass it. It elevated the city and the team to a level no one could understand. In essence it was a fairy tale"</item>
+        <item>"History points to the fact that to achieve anything in Scottish football you must beat the Old Firm. I would now suggest that to win anything in Scottish football you have to beat Aberdeen and Dundee United"</item>
+        <item>"I remember a player I had at Aberdeen, Stuart Kennedy, who would come in every morning and say "What head has he got on today?". But he didn't say that in front of me, I may tell you"</item>
+        <item>"In my time at Aberdeen, I turned down chances to manage Rangers, Arsenal and Spurs but when the opportunity came to manage Manchester United I could no longer stay in my safe house"</item>
+        <item>"I don't mind drink in celebration of a great result. But it had become woven into the fabric of United"</item>
+        <item>"What youth policy? I've been left a shower of shit!"</item>
+        <item>"I need men who are desperate to play for this club. Really there is no point having players whose heart is not in playing for you"</item>
+        <item>"I am not kidding. This isn't just a job to me. It's a mission. I am deadly serious about it -some would reckon too serious. But we will get there. Believe me when that happens life will change for Liverpool and everybody else. Dramatically"</item>
+        <item>"No manager is prepared for the job at United. The legend is huge"</item>
+        <item>"It hurts badly. Suicide is the only way to describe our defeat"</item>
+        <item>"I was as close to putting my head in the oven as I have ever been. There would be many volunteers to turn on the gas"</item>
+        <item>"Every time somebody looks at me I feel I have betrayed them. You feel as if you have to sneak around corners, as if you are some kind of criminal"</item>
+        <item>"God works in mysterious ways. Maybe it was the final lesson for us, the ultimate experience in humility and a reminder to our younger players how it feels to have victory snatched away at the moment it seems in your grasp"</item>
+        <item>"It is important that we not allow ourselves to think that Manchester United's failure to win the league wince 1967 is some kind of curse on the club. We cannot sink into a slough of despondency, believing the world is against us because that way lies defeat and submission"</item>
+        <item>"I became something of a hermit, driven into a self-imposed hiding by the failure. I shut the world outside my door and just felt miserable"</item>
+        <item>"I would get to the ground and see two directors talking, and there would be a fleeting moment when I would wonder what they were talking about. It's amazing how it can transmit itself to guilt"</item>
+        <item>"You wait a lifetime for a feeling like tonight"</item>
+        <item>"It was the day I truly became manager of Manchester United. There was a sudden realisation that I was now manager of my own destiny"</item>
+        <item>"I was playing the 17th hole at Mottram Hill when a total stranger raced up, threw his arms around my neck and told me Oldham had beaten Aston Villa and Manchester United were champions. I will never forget the stride up the 18th fairway. I had a picture in my mind of Arnold Palmer receiving thuderous acclaim at the Open Championship in 1962. There wasn't even a squirrel applauding me, but it didn't matter because we were champions"</item>
+        <item>"When we won the league for the first time, I went into the dressing room and said "Ive written three name in an envelope and those players will let us down next season." Of course there was no envelope"</item>
+        <item>"The 1994 team had mental toughness. So many of them. Real tough bastards"</item>
+        <item>"A Manchester United player has to want the ball, have the courage to want it. He's a player with imagination. Somebody who sees the bigger picture"</item>
+        <item>"People call these outstanding young stars kids. In a way, I do it myself. But believe me, in football terms they are not kids any more. They deserve to be recognised as senior football players with Manchester United. They want success and they want it now"</item>
+        <item>"There is a terrible amount of jealousy towards this club. I don't know why"</item>
+        <item>"I can't believe it. Football, eh? Bloody hell"</item>
+        <item>"He went into that cauldron as calmly as someone popping around the corner for a newspaper"</item>
+        <item>"All my life I have based my creed on passing the ball, possession with rhythm and tempo. For thirty minutes of the first half, my ideals were almost totally realised. It was the finest display I have ever had from United"</item>
+        <item>"I don't think I could have a higher opinion of any footballer than I already had of Roy Keane but he rose even further in my estimation at the Stadio Delle Alpi. The minute he was booked and out of the final, he seemed to redouble his efforts to get the team there. It was the most emphatic display of selflessness I have ever seen. He pounded over every blade of grass, competing as if he would rather die from exhaustion than lose and he inspired all around him. I felt it an honour to be associated with such a player"</item>
+        <item>"At the end of this game, the European Cup will be only six feet away from you and you won't be able to touch it if we lose. And for many of you that will be the closest you will ever get. Don't you dare come back in here without giving your all"</item>
+        <item>"All of us were blissfully demented. I tried to give a television interview but it was gibberish. I didn't mind sounding like an idiot though. There was no happier idiot on the planet"</item>
+        <item>"Some people say you can't be a great manager until you've won the European Cup. I don't think like that but it was nice to put that one to bed"</item>
+        <item>"David Beckham is Britain's finest striker of a ball not because of God-given talent but because he practices with a relentless application that the vast majority of less gifted players wouldn't contemplate"</item>
+        <item>"He is the most precious, skill-blessed player I have ever had in almost twenty years of management. The greatest talent that I have ever been asked to manage"</item>
+        <item>"I will always remember my first sight of him floating over the pitch so effortlessly that you would have sworn his feet weren't touching the ground. He looked as relaxed and natural as a cocker spaniel chasing a silver paper in the wind."</item>
+        <item>"Whether dribbling or sprinting, he can leave the best defenders with twisted blood"</item>
+        <item>"If we look after him the right way, he will be one of the stars of football"</item>
+        <item>"If he was an inch taller, he'd be the best centre half in Britain. His father is 6ft 2. I'd check the milkman!"</item>
+        <item>"I'd rather have Gary Neville in my team than some kind of cold fish"</item>
+        <item>"Ryan Giggs, Gary Neville and Paul Scholes are the heartbeat of the team. They have all been here since they were 13. They are in their 30s now and I don't think there's another team anywhere that has three players who have been around for getting on 20 years. It's important for a club like United to have a Mancunian heartbeat"</item>
+        <item>"One of the best footballing brains Manchester United has ever had"</item>
+        <item>"Wayne is truly blessed. He doesn't just have ability, he has a fire inside him"</item>
+        <item>"Gary Neville was having a piss one day by a fence forty-five yards away. Scholes whacked him right in the arse with a ball"</item>
+        <item>"What were you like at 19? I was trying to start a workers' revolution in Glasgow. My mother thought I was a Communist"</item>
+        <item>"It was one of the mistakes I made. I hope I haven't made too many, but that was one"</item>
+        <item>"Patrick would love to have come here last year but they wouldn't let him. Players always want to play for a bigger club"</item>
+        <item>"If I was putting Roy Keane out there to represent Manchester United on a one-on-one basis, we'd win the Derby, the Boat Race and anything else. It's an incredible thing he's got"</item>
+        <item>"When I look at Roy Keane, I often see myself. He cares, he's a born winner"</item>
+        <item>"Some players cry now in the dressing room. Bryan Robson never used to cry"</item>
+        <item>"You only have to study Bryan Robson to discover the right attitude. Isn't he a joy to behold, how he burst himself to win games? Has there ever been a game he has not tried his utmost to win or given everything?"</item>
+        <item>"Paul Gascoigne was the best player of his era in English football. He was a breath of fresh air because he played with a smile and he played with a cunning and aggression - apart from all the great abilities he had, he loved playing and he loved winning"</item>
+        <item>"I used to have a saying that when a player is at his peak he feels he can climb Mount Everest with his slippers. That's what he was like"</item>
+        <item>"Peter Barnes was mixed up. He didn't fancy the idea of working back as a winger. He failed to realise all the great players have worked. Ruud Gullit works as hard as the rest of the team and they once put a pedometer on Di Stefano and found that he covered more ground than the rest of the Real Madrid team. Players like Cruyff, Best and Charlton went from penalty box to penalty box and I have often wondered why Peter Barnes felt he was different"</item>
+        <item>"It amazes me when people people say "All he can do is score goals". It's the most famous quote in football"</item>
+        <item>"I wouldn't expose my back to him in a hurry"</item>
+        <item>"He was towering over me and the other players were covering their eyes. Im looking up at him and thinking If he does hit me, I'm dead"</item>
+        <item>"If there was ever a player in this world who was made for Manchester United, it was Cantona. I think he had been searching all his life for somebody who looked at him and made him feel that a place was his home. He had travelled around so many countries but when he came here, he knew: this is my place."</item>
+        <item>"He infected the place. Stuck his chest out, put his collar up and said "Look at me"</item>
+        <item>"A warrior you could trust with your life"</item>
+        <item>"He was a magician on the pitch. He could put a football in an egg cup"</item>
+        <item>"See this man? Neither of you two will ever be good enough to lace his boots. Now, go and get him some toast"</item>
+        <item>"When I was introduced to Matt Busby, I was trembling and in awe"</item>
+        <item>"It was if the king had died. In football terms it was as if the king had died."</item>
+        <item>"He had the humility that only really great men possess. Not well known men, genuinely great men. He was one of them"</item>
+        <item>"He was certainly full of it, calling me "Boss" and "Big Man" when we had our post-match drink after the first leg. But it would help if his greetings were accompanied by decent wine. What he gave me was paint stripper"</item>
+        <item>"He was an angry man. He must have been disturbed for some reason. I think you have to cut through the venom of it and hopefully he'll reflect and understand what he said was completely ridiculous" </item>
+        <item>"Gareth Southgate is very naive. He's just a young manager, we'll have to give him some time to settle in"</item>
+        <item>"Intelligent? They say he speaks five languages. I've got a 15 year old from the Ivory Coast who speaks five languages"</item>
+        <item>"I was watching Barcelona on television and he was being interviewed after the game. He got quite animated and upset. I wondered why, at 63, he was still putting up with that kind of treatment. The answer is,of course, is that football in his blood. Like a drug"</item>
+        <item>"They are a small club with a small mentality. All they can talk about is Manchester United"</item>
+        <item>"I can now understand why a lot of managers have to leave here choking on their own sick, afraid to tell the truth because they've been beaten. We've got a draw today, so I can speak the truth. To win here, you have to surmount a lot of pressure and obstacles and if you want to blame the referee, you can't. To provocation and intimidation, the ref is under is incredible. To win here is a miracle"</item>
+        <item>"My greatest challenge is not what's happening now. My greatest challenge was knocking Liverpool right off their fucking perch. And you can print that."</item>
+        <item>"You must be joking. Do I look as if I'm a masochist ready to cut myself? How does relegation sound instead?"</item>
+        <item>"They are scrappers who rely on belligerence. We are the better team"</item>
+        <item>"I think its obvious Arsenal have been doing deals with the FA for years. Look at the number of times they have gotten off with charges outside of the fifty-odd sendings off they have had under Wenger. It's remarkable. We hope we win titles without help"</item>
+        <item>"They're the worst losers of all time. They don't know how to lose. Maybe it's just Manchester United. They don't lose to many other teams"</item>
+        <item>"Rival United? Arsenal? Never! They will need three stadiums and 33 teams to rival us as a club. Nobody is as big as Manchester United."</item>
+        <item>"They give us the impression that lynching would be too good for us"</item>
+        <item>"They're hell bent on ruining football"</item>
+        <item>"They have a pre-conceived notion of themselves at Madrid, don't they? But you couldn't say they were ahead of Manchester United"</item>
+        <item>"I wouldn't sell them a virus"</item>
+        <item>"Everybody knows that for us to get awarded a penalty we need a certificate from the Pope and a personal letter from the Queen"</item>
+        <item>"When Italians tell me it is pasta I check under the sauce to make sure. They're the masters of smokescreen."</item>
+        <item>"It's a dysfunctional unit. I don't think they know what they are doing, but it will always be that way"</item>
+        <item>"He is what he is. A bitter old man"</item>
+        <item>"One of my players would have to get hit by an axe to get a penalty at the moment"</item>
+        <item>"It's strange for a country like Holland to call us arrogant. You're not short of it yourself"</item>
+        <item>"Rooney is from Liverpool and everyone from that city has a chip on their shoulder, so if an injustice is done to him on the pitch, of course he will react"</item>
+        <item>"Some referees don't like the truth but I had to tell him how bad he was in the first half"</item>
+        <item>"Have we got a supply of mogadon?"</item>
+        <item>"Don't associate me with that woman"</item>
+        <item>"Yes. You can fuck off and die"</item>
+        <item>"I think Sepp Blatter is in danger or has reached a point now where he is being mocked within the game. Things can happen to people in power. Look at some of the despots in Africa."</item>
+        <item>"I said to the directors If that had been me, I'd probably have done the same". They said "Don't dare say that. The press will slaughter you, Christ!!"</item>
+        <item>"Jimmy Hill is verbal when it suits him. If there's a prat going around, it's him. The BBC are dying for us to lose. Everyone is from Liverpool with a Liverpool supporter's flag. They'll be here every time we lose, that mob. Liverpool Supporter's Association"</item>
+        <item>"Has any chairman since Mao had more faith in his own opinions than Ken Bates?"</item>
+        <item>"Can anyone tell me why they give the referee a watch? It's certainly not for keeping the time."</item>
+        <item>"Football is the only industry where you can't speak the truth"</item>
+        <item>"None of your fucking business! Do I ask if you're still going to those fucking gay clubs?"</item>
+        <item>"We're the front page, back page, middle page, in the comic strip, the lot. I used to get upset by it, but not any longer. It happens, and in a strange way it's fantastic for us that this attention falls on our club. We are the biggest club on the planet, the universe. Remember that."</item>
+        <item>"That's you finished at this club"</item>
+        <item>"You fucking sell your papers and radio shows off the back of this club"</item>
+        <item>"It doesn't matter it there is an earthquake in London. If we were drawing 0-0 with Bury in the League Cup, there's a good chance it would be on News At Ten"</item>
+        <item>"Do you know that the most perfect English in the world is spoken in Scotland? That's absolutely correct by the way."</item>
+        <item>"Bayern Munich have a press conference every day. Can you imagine it? I have to summon up every ounce of energy I have to do it once a week!"</item>
+        <item>"Never try to read the mind of a madman"</item>
+        <item>"I get the papers in the morning and I have good laugh about them. I get a cup of tea, I look at what you've written. I get an aspirin to make sure I get over it. And then I go about my day...still laughing"</item>
+        <item>"Jesus Christ, how do you lot come up with this stuff? It's Korky the Cat, Dennis the Menace stuff! Do you read Lord Snooty? Which comic do you guys work for these days? Absolutely priceless."</item>
+        <item>"That's a good question. But it would take a whole interview to get it and that's an interview you're never going to fucking get."</item>
+        <item>"Did you know that in 1999 they picked David Ginola for the Football Writer's Footballer of the Year award? We won the Treble that year and they still gave it to Ginola. Can you believe that?"</item>
+        <item>"I wouldn't want to blunt your imagination with the facts"</item>
+        <item>"Mice? I don't know about mice but we've got a big problem with fucking rats. And you walked right into that one, son"</item>
+        <item>"I once read an article which said that when I started in management I used to go behind the stand at East Stirlingshire to practice losing my temper. I was going to say you couldn't make it up, but someone obviously has."</item>
+        <item>"If I lost control of these multi millionaires in the dressing room, I'm dead. So I never lose control. And if anyone steps out of my control that's them dead"</item>
+        <item>"When you start as a manager, what are you thinking about? You're thinking about surviving. You don't want to be a casualty. There's the fear factor right through my life. The fear of failure is always there. Never leaves me."</item>
+        <item>"If footballer's think they are above a manager's control, there is only one word to say: Goodbye"</item>
+        <item>"I once asked Paul Ince why he got upset when someone called him black. After all, he frequently referred to me as a Scottish so-and-so, so what's the difference? He told me the Scots aren't a race. Naturally, I had to remind him that we are, in fact,the master race"</item>
+        <item>"Sometimes I wish it had been with someone who is six foot ten. Sometimes it's a small guy, sometimes it's a medium guy. I've no discrimination that way. Sometimes there's guilt. Sometimes you say to yourself, "Why did I do that?""</item>
+        <item>"People must recognize that I'm not the three headed monster that I have been portrayed. I've got feelings like anyone else"</item>
+        <item>"Coming up the stairs at Old Trafford recently, a young player, one of the 16 year olds called me Alex. I said to him unless you were at school with me call me Mr Ferguson or Boss. Some of the senior players were pulling desperate faces at him. Brilliant"</item>
+        <item>"We go to the cinema every week. Cathy and I go to the early show at around five o'clock. I get my pick and mix and my hot dog and my ice cream. Cathy said I'm a pig"</item>
+        <item>"I told Cathy I had a match but she had none of it. She said it was a friendly and I had to help her pack because we were moving house"</item>
+        <item>"I once forgot to get her a Christmas present. I remembered on Christmas Eve and panicked but by then the shops were shut. So I slipped a cheque in with her card on Christmas Day. A bummer idea, she tore it in two and threw it in the bin."</item>
+        <item>"The nation was warming to us during the build up to last season's Champions League final. But the warmth was only ever going to be temporary. It's the British culture of being quick to put down people at the top. We're a soft target."</item>
+        <item>"Only true champions come out and show their worth after defeat"</item>
+        <item>"The thing that's annoying in football at the moment is a lot of mediocre players are being paid very well. Not just at United, I don't have mediocre players."</item>
+        <item>"I'm such a talented guy. I might go into painting or something like that."</item>
+        <item>"I still think I'm 58, you know. I see the papers and read I'm actually 65 and I think that can't be true, can't it?"</item>
+        <item>"The big fear is what you would do with yourself. There's too many examples of people who retire and are in their box soon after. Because you're taking away the very thing that keeps you alive, that makes you alive. I remember my dad had his 65th birthday and the Fairfields shipyard gave him a dinner in Glasgow with 400 people there. The next week, my mother told me he had to go for an X-ray because of chest pains. I thought it was due to emotion of retiring. It was cancer. A week. One week."</item>
+        <item>"I'm not going anywhere. I enjoy you people too much....Now mark me down as Liar of the Year."</item>
+        <item>"He runs like the hairs on his arse are tied together"</item>
+        <item>"The hardest part of Roy Keane is his tongue. He has the most savage tongue you can imagine"</item>
+        <item>"There ws no way I could contemplate that. It wasn't a bed of nails I was ever tempted to lie on"</item>
+        <item>"Benitez has more regard for destroying a game than winning"</item>
+        <item>"Denis Irwin would be the first name on my list of the greatest team I have ever managed"</item>
+        <item>"In a list of the greatest United players, Ryan Giggs would be in the top three, no question. You can argue about the rest"</item>
+        <item>"Look to know what's gonna happenn in football, Gary? It could all blow up in our face, at the end of the day. But can you forget moments like this? Our supporters will be talking about that for years, the players will be talking about that for years. That's what football's about: Trying to reach peaks and climaxes to a season which we're doing at the moment. We're in a final. We've got something in the bank for ourselves. Now, we go try and win this league.  "</item>
+        <item>"I've actually no script in my mind. I'm just going to ramble on and hope I get to the core of what this football club has meant to me. First of all, it's a thank you to Manchester United. Not just the directors, not just the medical staff, the coaching staff, the players, the supporters. It's all of you. You have been the most fantastic experience of my life. Thank you. I have been very fortunate. I've been able to manage some of the greatest players in the country, let alone Manchester United. All these players here today have represented the club in the proper way. They won the championship in a fantastic fashion. Well done to the players. My retirement doesn't mean the end of my life with the club. I'll be able to now enjoy watching them rather than suffer with them. But if you think about it...those last minute goals, the comebacks, even the defeats are all part of this great football club of ours. And it's been an unbelievable experience for all of us, so thank you for that. I'd also like to remind you that we've had bad times here. The club stood by me. All my staff stood by me. The players stood by me. So your job now is to stand by our new manager. That is important. Before I start blubbing I just want to pay tribute to Paul Scholes, who retires today. He's unbelievable. He's one of the greatest players this club has ever had and ever will have. Paul, we wish you a good retirement. I know you'll be around. Also I'd like to say another word wishing Darren Fletcher a speedy comeback. I wish the players every success in future. You know how good you are, you know the jersey you're wearing. You know what it means to everyone here. And don't ever let yourself down, the expectation is always there. So I'm going home, well, I'm going inside for a while. I just want to say thank you once again to all the Ferguson family – they're all up there! Eleven grandchildren! Thank you. Thank you.    "</item>
+
+
+    </array>
+
+    <array name = "Details">
+        <item>-"1991"</item>
+        <item>-"1995"</item>
+        <item>-"on following Rangers as a boy"</item>
+        <item>-"2000"</item>
+        <item>-"playing for Dunfermline 1966"</item>
+        <item>-"2004"</item>
+        <item>-"2004"</item>
+        <item>-"on his first experience playing in the Old Firm Derby in 1967"</item>
+        <item>-"1999"</item>
+        <item>-"After taking over St Mirren 1974"</item>
+        <item>-"On being fired by St Mirren 1984"</item>
+        <item>-"On training at Aberdeen 2003"</item>
+        <item>-"On Aberdeens victory in the 1983 European Cup Winners Cup final 1999"</item>
+        <item>-"1985"</item>
+        <item>-"2010"</item>
+        <item>-"1992"</item>
+        <item>-"1992"</item>
+        <item>-"On the Youth Policy at United when he took over 1986"</item>
+        <item>-"After transfer listing Paul McGrath and Norman Whiteside 1988"</item>
+        <item>-"On another failed title attempt. 1988"</item>
+        <item>-"1991"</item>
+        <item>-"After a 5-1 defeat to Man City at Maine Road 1989"</item>
+        <item>-"After a 5-1 defeat to Man City at Maine Road 1989"</item>
+        <item>-"After a 5-1 defeat to Man City at Maine Road 1989"</item>
+        <item>-"After collapsing in the league 1992"</item>
+        <item>-"1992"</item>
+        <item>-"1993"</item>
+        <item>-"1992"</item>
+        <item>-"After Uniteds first title success in 26 years 1993"</item>
+        <item>-"1993"</item>
+        <item>-"After winning the title 1993"</item>
+        <item>-"1993"</item>
+        <item>-"1999"</item>
+        <item>-"1995"</item>
+        <item>-"On the Class of 92 1996"</item>
+        <item>-"1997"</item>
+        <item>-"After beating Bayern Munich to complete the treble 1999"</item>
+        <item>-"After Paul Scholes late winner against Inter Milan at San Siro in the Champions League Quarter Finals 1999"</item>
+        <item>-"After United beat Juventus 3-2 in Turin in the Champions League Semi Finals 1999"</item>
+        <item>-"After United beat Juventus 3-2 in Turin in the Champions League Semi Finals 1999"</item>
+        <item>-"Half time team-talk in the Champions League final 1999"</item>
+        <item>-"Reflecting on the Champions League win 1999"</item>
+        <item>-"2000"</item>
+        <item>-"1999"</item>
+        <item>-"on Ryan Giggs 1993"</item>
+        <item>-"on Ryan Giggs 2000"</item>
+        <item>-"on Ryan Giggs 1997"</item>
+        <item>-"on Cristiano Ronaldo 2003"</item>
+        <item>-"on Gary Neville 1996"</item>
+        <item>-"on Gary Neville 2006"</item>
+        <item>-"2006"</item>
+        <item>-"on Paul Scholes 1999"</item>
+        <item>-"on Wayne Rooney 2005"</item>
+        <item>-"2004"</item>
+        <item>-"After Rooney had a volatile display for England 2004"</item>
+        <item>-"On selling Jaap Stam to Lazio 2010"</item>
+        <item>-"on Patrick Vieira 2002"</item>
+        <item>-"2001"</item>
+        <item>-"2004"</item>
+        <item>-"2010"</item>
+        <item>-"1992"</item>
+        <item>-"2008"</item>
+        <item>-"on Paul Ince 1997"</item>
+        <item>-"1992"</item>
+        <item>-"on Andy Cole 1995"</item>
+        <item>-"On Gordon Strachan 1999"</item>
+        <item>-"On a dressing room argument with Schmeichel 2006"</item>
+        <item>-"1998"</item>
+        <item>-"on Eric Cantona 1992"</item>
+        <item>-"on Mark Hughes 1994"</item>
+        <item>-"on Jim Baxter 2006"</item>
+        <item>-"To Giggs and Rooney about Ken Barnes"</item>
+        <item>-"1996"</item>
+        <item>-"on Jock Steins death 1985"</item>
+        <item>-"on Jock Stein 2000"</item>
+        <item>-"on Jose Mourinho 2009"</item>
+        <item>-"after Rafa Benitez criticised him 2009"</item>
+        <item>-"After Southgate criticised Ronaldo 2007"</item>
+        <item>-"on Arsene Wenger 2003"</item>
+        <item>-"on Sir Bobby Robson 1997"</item>
+        <item>-"on Manchester City 2009"</item>
+        <item>-"on visiting Anfield 1988"</item>
+        <item>-"2002"</item>
+        <item>-"After being asked whether Liverpool could end their 17 year wait for a league title 2007"</item>
+        <item>-"after Arsenal won the league 2002"</item>
+        <item>-"2003"</item>
+        <item>-"on Arsenal 2005"</item>
+        <item>-"2006"</item>
+        <item>-"on Leeds United 1999"</item>
+        <item>-"on Chelsea 2005"</item>
+        <item>-"on Real Madrid 2007"</item>
+        <item>-"on Real Madrid 2008"</item>
+        <item>-"2006"</item>
+        <item>-"1999"</item>
+        <item>-"On FA's disciplinary department 2010"</item>
+        <item>-"On Tommy Docherty 1992"</item>
+        <item>-"2005"</item>
+        <item>-"When a Dutch jounalist accused him of showing a cavalier attitude towards PSV Eindhoven 2000"</item>
+        <item>-"2005"</item>
+        <item>-"After Mark Clattenburg sent him to the stand during a game 2007"</item>
+        <item>-"After hearing Herbert Fandel was appointed to referee a United game in the Champions League 2007"</item>
+        <item>-"Ferguson to a journalist who noted she and Ferguson slept similar hours every night"</item>
+        <item>-"To a Mirror Sports Editor who asked if the paper could improve relations with the club"</item>
+        <item>-"2008"</item>
+        <item>-"After Eric Cantona's Kung Fu Incident"</item>
+        <item>-"1994"</item>
+        <item>-"2000"</item>
+        <item>-"1996"</item>
+        <item>-"After the FA banned Ferguson from the touchline for five matches"</item>
+        <item>-"To a journalist who asked him if he was going to the World Cup 2002"</item>
+        <item>-"At a press conference 2005"</item>
+        <item>-"To a reporter who asked about Roy Keane's complaints 2005"</item>
+        <item>-"At a press conference after an issue was raised he was not pleased about"</item>
+        <item>-"2002"</item>
+        <item>-"To South Korean journalists 2005"</item>
+        <item>-"2005"</item>
+        <item>-"To Journalists trying to guess his team 1998"</item>
+        <item>-"At a press conference 2006"</item>
+        <item>-"When asked at a press conference if he was signing Darren Bent 2006"</item>
+        <item>-"After a reporter asked why United had a poor season 2002"</item>
+        <item>-"On the British football press"</item>
+        <item>-"A press conference 2005"</item>
+        <item>-"After a journalist asked him about mice on the Old Trafford pitch 2006"</item>
+        <item>-"2007"</item>
+        <item>-"2010"</item>
+        <item>-"2003"</item>
+        <item>-"1999"</item>
+        <item>-"1996"</item>
+        <item>-"On his temper 2003"</item>
+        <item>-"1992"</item>
+        <item>-"2000"</item>
+        <item>-"2007"</item>
+        <item>-"After his wife stopped him going to a friendly game 2007"</item>
+        <item>-"1996"</item>
+        <item>-"2000"</item>
+        <item>-"After being beaten by Arsenal 2005"</item>
+        <item>-"2007"</item>
+        <item>-"On retiring 2001"</item>
+        <item>-"2007"</item>
+        <item>-"2008"</item>
+        <item>-"At a press conference 2007"</item>
+        <item>-"On referee Alan Wiley 2006"</item>
+        <item>-"2013"</item>
+        <item>-"2013"</item>
+        <item>-"2013"</item>
+        <item>-"2013"</item>
+        <item>-"2013"</item>
+        <item>-"After the epic FA Cup semi final replay against Arsenal 1999"</item>
+        <item>-"Ferguson's retirement speech at Old Trafford 2013"</item>
+
+
+
+        </array>
+</resources>
